@@ -1,6 +1,6 @@
 streamlit==0.71.0
 Keras
 numpy
-opencv_python==4.4.0.46
+opencv-python-headless
 tensorflow-cpu
 matplotlib
