@@ -1,0 +1,14 @@
+2022-03-12/10:52:47		Start of Training
+2022-03-12/10:52:47		Doing Preprocessing.
+2022-03-12/10:52:47		I enter Preprocessing.
+2022-03-12/10:52:48		Doing train_test_split.
+2022-03-12/10:52:48		Finish train_test_split.
+2022-03-12/10:52:48		Doing Normalizing.
+2022-03-12/10:52:50		Changing to categorical.
+2022-03-12/10:52:50		Model Building.
+2022-03-12/10:52:51		Compiling Model.
+2022-03-12/10:52:51		Again doing train_test_split.
+2022-03-12/10:52:51		Fitting a model.
+2022-03-12/10:53:39		Saving Model.
+2022-03-12/10:53:40		Plotting the training history.
+2022-03-12/10:55:09		Successful End of Training
