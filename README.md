@@ -60,6 +60,9 @@ Our pipeline consists of three steps:
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## :warning: Technology Stack
+- **Pandas**
+- **Numpy**
+- **Matplotlib**
 - **Tensorflow**
 - **Streamlit**
 - **OpenCV**
