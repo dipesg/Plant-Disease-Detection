@@ -60,6 +60,6 @@ Our pipeline consists of three steps:
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## :warning: Technology Stack
-- **Tensorflow 1.x**
+- **Tensorflow**
 - **Streamlit**
 - **OpenCV**
