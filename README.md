@@ -1,4 +1,11 @@
 # Plant-Disease-Detection
+
+### LINK to WEBAPP
+  [LINK](https://plantdisease1.herokuapp.com/)
+  
+### DATASET LINK
+  [LINK](https://github.com/dipesg/Pretrained-Emotion-Model/blob/main/dataset.rar)
+
 ### Table of Content
   * [Overview](#overview)
   * [Architechture](#architechture)
