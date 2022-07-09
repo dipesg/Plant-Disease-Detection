@@ -26,7 +26,7 @@
 Our pipeline consists of three steps:
   1. An AI model which detect plant disease.
   2. An AI model which predict if the leaves has disease or not.
-  3. The output predicted disease name.
+  3. The output is predicted disease name.
   
 ### 🚀 Model's performance
   - **Our Custom CNN model** perform better by giving near 95% accuracy.
