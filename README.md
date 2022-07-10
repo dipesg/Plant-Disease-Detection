@@ -63,6 +63,7 @@ Our pipeline consists of three steps:
 - **Pandas**
 - **Numpy**
 - **Matplotlib**
+- **Sklearn**
 - **Tensorflow**
 - **Streamlit**
 - **OpenCV**
